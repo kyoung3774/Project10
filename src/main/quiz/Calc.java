@@ -11,4 +11,6 @@ public interface Calc {
 	int times(int num1, int num2);
 
 	double divide(double num1, double num2);
+	
 }
+
