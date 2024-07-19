@@ -53,7 +53,7 @@ class Calculator implements Calc { // 인터페이스 상속 키워드: implemen
 	}
 
 	public void showInfo() {
-		System.out.println("Calc 인터페이스를 구현");
+		System.out.println("Calc 인터페이스를 구현했다.");
 	}
 
 }
