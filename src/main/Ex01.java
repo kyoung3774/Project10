@@ -37,7 +37,8 @@ class Calculator implements Calc { // 인터페이스 상속 키워드: implemen
 
 	@Override
 	public int subStract(int num1, int num2) {
-		return num1 - num2;
+		int subStract = num1 - num2;
+		return subStract;
 	}
 
 	@Override
